@@ -1,5 +1,5 @@
 - Hi, I’m @LilBroCodes
-- 10 months of self taught python experience
+- 1.5y of self taught python experience
 - Some experience in Geometry Dash
 
 - Other languages:
