@@ -1,9 +1,8 @@
 - Hi, I’m @LilBroCodes
 - 1.5y of self taught python experience
-- Some experience in Geometry Dash
+- I Play GD
 
-- Other languages:
--   C#, C++, PHP, js
+- I also make websites and minecraft mods/plugins for fun
 
 
 - Social Media / Where To Reach Me:
