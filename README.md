@@ -2,7 +2,7 @@
 ## About me
 ![Editor](https://img.shields.io/badge/Editor-Jetbrains%20IDEs-yellowgreen/?color=lightblue&)
 ![Addiction](https://img.shields.io/badge/Addicted%20to-Python-orange/?logo=python&logoColor=lightblue&color=lightblue)
-![Browser](https://img.shields.io/badge/Browser-Arc-default?logo=arc&logoColor=%23bd21aaf&color=lightblue)
+![Browser](https://img.shields.io/badge/Browser-Zen%20%2F%20Firefox-default?logo=firefox&logoColor=lightblue&color=lightblue)
 ![GitHub followers](https://img.shields.io/github/followers/lilbrocodes?color=lightblue&label=User%20Followers&logo=github&style=flat)
 
 ![IDEs](https://skillicons.dev/icons?i=idea,pycharm,phpstorm,clion,webstorm,vscode) &emsp;
