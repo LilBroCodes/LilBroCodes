@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/lilbrocodes?color=lightblue&label=User%20Followers&logo=github&style=flat)
 
 ![IDEs](https://skillicons.dev/icons?i=idea,pycharm,phpstorm,clion,webstorm,vscode) &emsp;
-![Tools](https://skillicons.dev/icons?i=discord,bots,yarn,gradle,mysql)
+![Tools](https://skillicons.dev/icons?i=discord,bots,yarn,gradle,mysql,vue)
 
 ![Linux](https://skillicons.dev/icons?i=linux,arch) &emsp;
 ![Languages](https://skillicons.dev/icons?i=py,cs,java,php,html,css,js,powershell)
