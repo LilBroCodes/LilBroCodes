@@ -13,4 +13,4 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue&border=3A3A3A)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue&border=3A3A3A)
