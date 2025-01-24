@@ -9,9 +9,6 @@
 ![Tools](https://skillicons.dev/icons?i=discord,bots,yarn,gradle,mysql,vue)
 
 ![Linux](https://skillicons.dev/icons?i=linux,arch) &emsp;
-![Languages](https://skillicons.dev/icons?i=py,cs,java,php,html,css,js,powershell)
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue&border=3A3A3A)
-![LilBroCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilBroCodes&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Languages](https://skillicons.dev/icons?i=py,cs,java,php,html,css,js,powershell)<br><br>
+![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue&border=3A3A3A)\
+![LilBroCodes's Top Languages](https://platinum.141412.xyz/lilbroGithubThing.php)
