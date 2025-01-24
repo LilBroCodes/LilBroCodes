@@ -14,3 +14,4 @@
 <br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue&border=3A3A3A)
+![LilBroCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilBroCodes&theme=dark&show_icons=true&hide_border=true&layout=compact)
