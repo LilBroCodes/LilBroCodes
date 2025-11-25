@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=A7C7DC&width=500&height=30&lines=Python+script+kid+and+professional+nerd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=A7C7DC&width=500&height=30&lines=Silly+Minecraft+mod+maker+and+professional+nerd)](https://git.io/typing-svg)
 ## About me
 ![Editor](https://img.shields.io/badge/Editor-Jetbrains%20IDEs-yellowgreen/?logo=jetbrains&logoColor=lightblue&color=lightblue)
 ![Addiction](https://img.shields.io/badge/Addicted%20to-Python-orange/?logo=python&logoColor=lightblue&color=lightblue)
