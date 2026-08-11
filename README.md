@@ -11,5 +11,5 @@
 
 ![Linux](https://skillicons.dev/icons?i=linux,arch) &emsp;
 ![Languages](https://skillicons.dev/icons?i=py,cs,java,php,html,css,js,powershell)<br><br>
-![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue&border=3A3A3A)\
-![LilBroCodes's Top Languages](https://platinum.141412.xyz/lilbroGithubThing.php)
+![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue)\
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=%40cf7a6074-58ab-4680-87b6-b86b283cb511&theme=github_dark)
