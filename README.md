@@ -11,5 +11,5 @@
 
 ![Linux](https://skillicons.dev/icons?i=linux,arch) &emsp;
 ![Languages](https://skillicons.dev/icons?i=py,cs,java,php,html,css,js,powershell)<br><br>
-![GitHub Streak](https://streak-stats.demolab.com?user=lilbrocodes&theme=github-dark-blue)\
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=%40cf7a6074-58ab-4680-87b6-b86b283cb511&theme=github_dark)
