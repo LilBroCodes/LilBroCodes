@@ -4,7 +4,7 @@
 ![Addiction](https://img.shields.io/badge/Addicted%20to-Java-orange/?logo=gradle&logoColor=lightblue&color=lightblue)
 ![Browser](https://img.shields.io/badge/Browser-Firefox-default?logo=firefox&logoColor=lightblue&color=lightblue) <br>
 ![Discord](https://img.shields.io/badge/Discord-lilbrocodes-orange/?logo=discord&logoColor=lightblue&color=lightblue)
-![Email](https://img.shields.io/badge/Email-lilbrocodes%40gmail.com-orange/?logo=gmail&logoColor=lightblue&color=lightblue)
+![Email](https://img.shields.io/badge/Email-contact%40zn0n.cc-orange/?logo=gmail&logoColor=lightblue&color=lightblue)
 
 ![IDEs](https://skillicons.dev/icons?i=idea,pycharm,phpstorm,clion,webstorm,vscode) &emsp;
 ![Tools](https://skillicons.dev/icons?i=discord,bots,yarn,gradle,mysql,vue)
