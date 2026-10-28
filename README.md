@@ -3,7 +3,7 @@
 ![Editor](https://img.shields.io/badge/Editor-Jetbrains%20IDEs-yellowgreen/?logo=jetbrains&logoColor=lightblue&color=lightblue)
 ![Addiction](https://img.shields.io/badge/Addicted%20to-Java-orange/?logo=gradle&logoColor=lightblue&color=lightblue)
 ![Browser](https://img.shields.io/badge/Browser-Firefox-default?logo=firefox&logoColor=lightblue&color=lightblue) <br>
-![Discord](https://img.shields.io/badge/Discord-lilbrocodes-orange/?logo=discord&logoColor=lightblue&color=lightblue)
+![Discord](https://img.shields.io/badge/Discord-__zn0n-orange/?logo=discord&logoColor=lightblue&color=lightblue)
 ![Email](https://img.shields.io/badge/Email-contact%40zn0n.cc-orange/?logo=gmail&logoColor=lightblue&color=lightblue)
 
 ![IDEs](https://skillicons.dev/icons?i=idea,pycharm,phpstorm,clion,webstorm,vscode) &emsp;
